@@ -1,0 +1,10 @@
+main {
+  background-color: white;
+  width: 99vw;
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  color: black;
+  height: 100vw;
+  overflow-x: hidden !important;
+}
