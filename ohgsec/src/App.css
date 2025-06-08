@@ -5,6 +5,6 @@ main {
   justify-content: center;
   align-items: top;
   color: black;
-  height: 100vw;
+  height: 175vw !important;
   overflow-x: hidden !important;
 }
